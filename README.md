@@ -38,7 +38,6 @@ var stringFixedCode = fixmyjs.fix(stringOfCode, objectOfOptions)
 - [Gulp plugin](https://github.com/kirjs/gulp-fixmyjs)
 - [Grunt plugin](https://github.com/jonschlinkert/grunt-fixmyjs)
 - [Sublime plugin](https://github.com/addyosmani/sublime-fixmyjs)
-- [fixmyjs.com](http://fixmyjs.com)
 
 
 ## Options
